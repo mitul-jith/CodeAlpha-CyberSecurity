@@ -1,0 +1,15 @@
+Legitimate URLs
+
+https://www.microsoft.com
+https://www.paypal.com
+https://www.amazon.in
+
+---------------------------------
+
+Suspicious URLs
+
+https://microsoft-security-login-example.com
+
+https://paypal-account-verify-example.com
+
+https://amazon-delivery-update-example.com

@@ -1,0 +1,27 @@
+From: [support@courier-delivery-update.net](mailto:support@courier-delivery-update.net)
+
+Subject: Delivery Failed – Action Required
+
+Dear Customer,
+
+We attempted to deliver your package today, but delivery could not be completed.
+
+To reschedule delivery and avoid returning the package to the sender, please confirm your details using the link below:
+
+https://delivery-confirmation-example.com
+
+Thank you for choosing our delivery service.
+
+---
+
+Red Flags:
+
+1. Generic greeting ("Dear Customer")
+
+2. Creates urgency regarding package delivery
+
+3. Suspicious sender domain
+
+4. Requests action through an external link
+
+5. Link does not belong to an official courier company

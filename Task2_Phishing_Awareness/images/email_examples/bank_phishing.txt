@@ -1,0 +1,31 @@
+From: [security@bank-verification-alert.com](mailto:security@bank-verification-alert.com)
+
+Subject: URGENT: Your Bank Account Will Be Suspended
+
+Dear Customer,
+
+We detected unusual activity on your account.
+
+To avoid temporary suspension, please verify your account immediately using the secure link below:
+
+https://bank-account-verification-example.com
+
+Failure to verify within 24 hours may result in account restrictions.
+
+Thank you,
+Security Team
+
+
+---------------------------------
+
+Red Flags:
+
+1. Generic greeting ("Dear Customer")
+
+2. Urgent language ("URGENT", "within 24 hours")
+
+3. Creates fear of account suspension
+
+4. Suspicious sender address
+
+5. Requests immediate action through a link

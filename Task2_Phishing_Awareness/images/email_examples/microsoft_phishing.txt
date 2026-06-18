@@ -1,0 +1,30 @@
+From: [admin@microsoft-security-center.net](mailto:admin@microsoft-security-center.net)
+
+Subject: Microsoft 365 Password Expiring Today
+
+Dear User,
+
+Your Microsoft 365 password is scheduled to expire today.
+
+To avoid losing access to Outlook, Teams, and OneDrive, please confirm your account immediately.
+
+Verify Account:
+https://microsoft365-account-verification-example.com
+
+Failure to verify may result in account deactivation.
+
+Microsoft Security Team
+
+---
+
+Red Flags:
+
+1. Suspicious sender domain
+
+2. Creates urgency by claiming password expiry
+
+3. Threatens account deactivation
+
+4. Requests immediate verification
+
+5. Link domain does not belong to Microsoft
